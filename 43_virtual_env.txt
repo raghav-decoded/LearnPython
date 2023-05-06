@@ -1,0 +1,25 @@
+'''
+python3 
+pip3
+https://www.geeksforgeeks.org/how-to-install-virtual-environment-in-python-on-macos/
+
+pip3 install sklearn
+pip3 uninstall sklearn
+
+Start a venv
+    python3 -m venv env
+
+Activate a venv
+    source env/bin/activate
+
+Deactivate a venv
+    deactivate
+
+requirements.txt 
+    versions of different extensions
+    pip3 freeze > requirements.txt
+
+To include all packages in python
+    --system-site-packages env
+
+'''
